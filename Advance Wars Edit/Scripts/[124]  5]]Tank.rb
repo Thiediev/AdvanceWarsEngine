@@ -11,7 +11,7 @@ class Tank < Unit
     @name = "tank"
 		@real_name = "Tank"
     @unit_type = TNK
-    @cost = 7000
+    @cost = 1000
     @move = 6
     @move_type = MOVE_TREAD
     @vision = 3
